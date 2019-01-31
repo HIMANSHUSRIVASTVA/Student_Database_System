@@ -16,4 +16,4 @@ Student Database Management System for college that can be used to maintain the 
 
 
 ## Screenshot
-1.https://github.com/HIMANSHUSRIVASTVA/Student_Database_System/blob/master/first_window.PNG
+1.![alt text](https://github.com/HIMANSHUSRIVASTVA/Student_Database_System/blob/master/first_window.PNG)
