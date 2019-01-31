@@ -16,17 +16,24 @@ Student Database Management System for college that can be used to maintain the 
 
 
 ## Screenshot
-1. HOMEPAGE
+## 1. HOMEPAGE
+
 ![alt text](https://github.com/HIMANSHUSRIVASTVA/Student_Database_System/blob/master/first_window.PNG)
-2. STUDENT_CLICK
+## 2. STUDENT_CLICK
+
 ![alt text](https://github.com/HIMANSHUSRIVASTVA/Student_Database_System/blob/master/Student_click.PNG)
-3. TEACHER_CLICK
+## 3. TEACHER_CLICK
+
 ![alt text](https://github.com/HIMANSHUSRIVASTVA/Student_Database_System/blob/master/Teacher_click.PNG)
-4.TEACHER_DISPLAY_MARKS
+## 4.TEACHER_DISPLAY_MARKS
+
 ![alt text](https://github.com/HIMANSHUSRIVASTVA/Student_Database_System/blob/master/Display_marks.PNG)
-5. STUDENT_DATABASE
+## 5. STUDENT_DATABASE
+
 ![alt text](https://github.com/HIMANSHUSRIVASTVA/Student_Database_System/blob/master/Display_data.PNG)
-6.STUDENT_DISPLAY_RESULT
+## 6.STUDENT_DISPLAY_RESULT
+
 ![alt text](https://github.com/HIMANSHUSRIVASTVA/Student_Database_System/blob/master/Display_result.PNG)
-7. STUDENT_DISPLAY_RESULT
+## 7. STUDENT_DISPLAY_RESULT
+
 ![alt text](https://github.com/HIMANSHUSRIVASTVA/Student_Database_System/blob/master/diplay_rsult_submit.PNG)
