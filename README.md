@@ -13,3 +13,6 @@ Student Database Management System for college that can be used to maintain the 
 1. Tkinter for GUI (Graphical User Interface).
 2. SQLite3 for database.
 ```
+
+
+## Screenshot
