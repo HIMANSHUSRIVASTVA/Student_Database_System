@@ -18,22 +18,22 @@ Student Database Management System for college that can be used to maintain the 
 ## Screenshot
 ## 1. HOMEPAGE
 
-![alt homepage](https://github.com/HIMANSHUSRIVASTVA/Student_Database_System/blob/master/first_window.PNG)
+![alt homepage](https://himanshusrivastva.github.io/Student_Database_System/first_window.PNG)
 ## 2. STUDENT_CLICK
 
-![alt homepage](https://github.com/HIMANSHUSRIVASTVA/Student_Database_System/blob/master/Student_click.PNG)
+![alt homepage](https://himanshusrivastva.github.io/Student_Database_System/Student_click.PNG)
 ## 3. TEACHER_CLICK
 
-![alt homepage](https://github.com/HIMANSHUSRIVASTVA/Student_Database_System/blob/master/Teacher_click.PNG)
+![alt homepage](https://himanshusrivastva.github.io/Student_Database_System/Teacher_click.PNG)
 ## 4.TEACHER_DISPLAY_MARKS
 
-![alt homepage](https://github.com/HIMANSHUSRIVASTVA/Student_Database_System/blob/master/Display_marks.PNG)
+![alt homepage](https://himanshusrivastva.github.io/Student_Database_System/Display_marks.PNG)
 ## 5. STUDENT_DATABASE
 
-![alt homepage](https://github.com/HIMANSHUSRIVASTVA/Student_Database_System/blob/master/Display_data.PNG)
+![alt homepage](https://himanshusrivastva.github.io/Student_Database_System/Display_data.PNG)
 ## 6.STUDENT_DISPLAY_RESULT
 
-![alt homepage](https://github.com/HIMANSHUSRIVASTVA/Student_Database_System/blob/master/Display_result.PNG)
+![alt homepage](https://himanshusrivastva.github.io/Student_Database_System/Display_result.PNG)
 ## 7. STUDENT_DISPLAY_RESULT
 
-![alt homepage](https://github.com/HIMANSHUSRIVASTVA/Student_Database_System/blob/master/diplay_rsult_submit.PNG)
+![alt homepage](https://himanshusrivastva.github.io/Student_Database_System/diplay_rsult_submit.PNG)
